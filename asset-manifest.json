@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Photo-Gallery/static/css/main.5f4fd281.chunk.css",
+    "main.js": "/Photo-Gallery/static/js/main.38673065.chunk.js",
+    "main.js.map": "/Photo-Gallery/static/js/main.38673065.chunk.js.map",
+    "runtime-main.js": "/Photo-Gallery/static/js/runtime-main.4a639393.js",
+    "runtime-main.js.map": "/Photo-Gallery/static/js/runtime-main.4a639393.js.map",
+    "static/js/2.fb61b038.chunk.js": "/Photo-Gallery/static/js/2.fb61b038.chunk.js",
+    "static/js/2.fb61b038.chunk.js.map": "/Photo-Gallery/static/js/2.fb61b038.chunk.js.map",
+    "static/js/3.5ddc72a8.chunk.js": "/Photo-Gallery/static/js/3.5ddc72a8.chunk.js",
+    "static/js/3.5ddc72a8.chunk.js.map": "/Photo-Gallery/static/js/3.5ddc72a8.chunk.js.map",
+    "index.html": "/Photo-Gallery/index.html",
+    "static/css/main.5f4fd281.chunk.css.map": "/Photo-Gallery/static/css/main.5f4fd281.chunk.css.map",
+    "static/js/2.fb61b038.chunk.js.LICENSE.txt": "/Photo-Gallery/static/js/2.fb61b038.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Photo-Gallery/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a639393.js",
+    "static/js/2.fb61b038.chunk.js",
+    "static/css/main.5f4fd281.chunk.css",
+    "static/js/main.38673065.chunk.js"
+  ]
+}
